@@ -2,7 +2,8 @@
 
 ## 1. Install OpenPose from this link:
 
-https://github.com/CMU-Perceptual-Computing-Lab/openpose/releases\
+https://github.com/CMU-Perceptual-Computing-Lab/openpose/releases
+
 Version OpenPose v1.7.0 (GPU) was used in this project.
 
 ## 2. Change the testing file paths in two files
